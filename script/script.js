@@ -1,1 +1,1 @@
-console.log("sane!");
+console.log('sane!');

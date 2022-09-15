@@ -1,0 +1,21 @@
+{
+  "overrides": [
+    {
+      "files": ["*.js"],
+      "options": {
+        "trailingComma": "es5",
+        "printWidth": 80,
+        "tabWidth": 4,
+        "embeddedLanguageFormatting": "auto",
+        "arrowParens": "avoid",
+        "singleQuote": true
+      }
+    },
+    {
+      "files": ["*.css", "*.html"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
